@@ -1,7 +1,7 @@
 # Amazon Junior Software Developer Course Repository (ongoing)
 
 
-Welcome to the proof-of-work repository for the [Amazon Junior Software Developer](https://www.coursera.org/amazon-junior-software-developer) course! This repository documents my progress, assignments, projects, and learning throughout the course.
+Welcome to the proof-of-work repository for the [Amazon Junior Software Developer](https://www.coursera.org/professional-certificates/amazon-junior-software-developer) course! This repository documents my progress, assignments, projects, and learning throughout the course.
 
 ## 📚 Course Overview
 
