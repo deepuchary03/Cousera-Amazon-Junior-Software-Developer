@@ -64,15 +64,7 @@ Example structure:
 └── README.md
 ```
 
-## 🚀 Getting Started
 
-To explore my work:
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/deepuchary03/Cousera-Amazon-Junior-Software-Developer.git
-   ```
-2. Navigate to the desired module/directory.
-3. Open code files or notes to view assignments and solutions.
 
 ## 🏆 Proof of Completion
 
