@@ -1,7 +1,7 @@
 # Amazon Junior Software Developer Course Repository (ongoing)
 
 
-Welcome to the proof-of-work repository for the [Amazon Junior Software Developer](https://www.coursera.org/amazon-junior-software-developer) course! This repository documents my progress, assignments, projects, and learning throughout the course.
+Welcome to the proof-of-work repository for the [Amazon Junior Software Developer](https://www.coursera.org/professional-certificates/amazon-junior-software-developer) course! This repository documents my progress, assignments, projects, and learning throughout the course.
 
 ## 📚 Course Overview
 
@@ -43,28 +43,12 @@ The **Amazon Junior Software Developer** course is designed to equip learners wi
     - Deployment, version control, and maintenance
     - Real-world application case studies
 
-## 🗂 Repository Structure
 
-This repository is organized by module. Each directory contains:
-- Lecture notes
-- Code samples
-- Assignments and solutions
-- Project files
-
-Example structure:
-```
-/
-├── 01-introduction/
-├── 02-java-programming/
-├── 03-data-structures-algorithms/
-├── 04-database-management/
-├── 05-fullstack-web-development/
-├── 06-generative-ai/
-├── 07-application-development/
-└── README.md
-```
-
-
+## Certificates:
+<p>
+<img src="./1.jpg" alt="Image 1" width="400" height="250">
+<img src="./2.jpg" alt="Image 2" width="400" height="250">
+</p>
 
 ## 🏆 Proof of Completion
 
